@@ -1,1 +1,2 @@
 print("You`re have a new message")
+print("Hello my friend")
