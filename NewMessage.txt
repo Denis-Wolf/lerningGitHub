@@ -1,2 +1,2 @@
-print("You`re have a new message")
+print("We have a new message for you")
 print("Hello my friend")
