@@ -1,1 +1,1 @@
-print("By the table")
+print("It`s a mystery")
